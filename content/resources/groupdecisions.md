@@ -5,8 +5,13 @@ description: 'This file discusses about decision making options, personal prefer
   and stages of
 
   group development.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-932-technology-policy-organizations-spring-2005/96ea5967a41b42ed6c6ed139f94c6928_groupdecisions.pdf
+file: /media/courses/esd-932-technology-policy-organizations-spring-2005/96ea5967a41b42ed6c6ed139f94c6928_groupdecisions.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: groupdecisions.pdf
 uid: 96ea5967-a41b-42ed-6c6e-d139f94c6928
