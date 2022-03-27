@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e387a8f3-1654-bd7a-6676-665595729ce4
 resourcetype: Document
 title: sesonorgassumpt.pdf
 uid: 59051181-458f-0f0a-2803-dc3ab7818cd5

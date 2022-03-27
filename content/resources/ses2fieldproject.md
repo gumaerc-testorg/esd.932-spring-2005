@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e387a8f3-1654-bd7a-6676-665595729ce4
 resourcetype: Document
 title: ses2fieldproject.pdf
 uid: 8ce4e327-03b8-d3b1-c91c-bf762bd77bdd

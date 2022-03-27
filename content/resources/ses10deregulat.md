@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e387a8f3-1654-bd7a-6676-665595729ce4
 resourcetype: Document
 title: ses10deregulat.pdf
 uid: 2c95953d-52e6-3ac7-558f-9d7995fc1c00

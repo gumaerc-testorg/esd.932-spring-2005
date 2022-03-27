@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e387a8f3-1654-bd7a-6676-665595729ce4
 resourcetype: Document
 title: groupdecisions.pdf
 uid: 96ea5967-a41b-42ed-6c6e-d139f94c6928

@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e387a8f3-1654-bd7a-6676-665595729ce4
 resourcetype: Document
 title: ses8taskforces.pdf
 uid: fa1bd243-3cfe-b497-e30c-2e132cf14b62
