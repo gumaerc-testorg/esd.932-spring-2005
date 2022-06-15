@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This readings section provides information on the assigned readings corresponding
+  to the lecture topics of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -187,7 +189,7 @@ _Readings Distributed Separately_
 
 Cutcher-Gershenfeld, Joel. "Passing the Point of No Return." MIT/Sloan Foundation Industry System Study. ([PDF](/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/resources/auto_mod2lean_trans_case))
 
-"Socio-Technical Engineering Systems Simulation." MIT/Sloan Foundation Industry System Study. ([PDF]({{< baseurl >}}/resources/integrating_social_and_tech_sys))
+"Socio-Technical Engineering Systems Simulation." MIT/Sloan Foundation Industry System Study. ({{% resource_link 9446debc-3872-76da-2288-19b74b2de193 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -411,7 +413,7 @@ Open-Forum Panel Dialogue
 
 _Reading Distributed Separately_
 
-Kochan, Thomas, Wanda Orlikowski, and Joel Cutcher-Gershenfeld. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Beyond McGregor's Theory Y: Human Capital and Knowledge-Based Work in the 21st Century Organization."  
+Kochan, Thomas, Wanda Orlikowski, and Joel Cutcher-Gershenfeld. ["Beyond McGregor's Theory Y: Human Capital and Knowledge-Based Work in the 21st Century Organization."  
 ](https://www.researchgate.net/publication/237702104_Beyond_McGregor's_Theory_Y_Human_Capital_and_Knowledge-Based_Work_in_the_21st_Century_Organization)
 
 

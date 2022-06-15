@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/esd-932-technology-policy-organizations-spring-2005/b3886a1f67044cd02c2948907dcf98b5_esd-932s05-th.jpg
+file: /courses/esd-932-technology-policy-organizations-spring-2005/b3886a1f67044cd02c2948907dcf98b5_esd-932s05-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Three perspectives on technology policy organizations. (Courtesy of Joel
@@ -15,3 +15,5 @@ resourcetype: Image
 title: esd-932s05-th.jpg
 uid: b3886a1f-6704-4cd0-2c29-48907dcf98b5
 ---
+New image Upload
+

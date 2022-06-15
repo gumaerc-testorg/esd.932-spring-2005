@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus provides information on specific course objectives, reading
+  material, participation, teams, skill modules, and graded assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
