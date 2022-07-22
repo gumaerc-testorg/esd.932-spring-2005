@@ -5,6 +5,7 @@ file: /courses/esd-932-technology-policy-organizations-spring-2005/c346f0db0c853
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ses12concdslides.pdf
 uid: c346f0db-0c85-3a74-9b4b-39003c130bac
 ---
 This file includes the concluding discussion of the course.
-

@@ -8,6 +8,7 @@ file: /courses/esd-932-technology-policy-organizations-spring-2005/ae3f0b8cf5043
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: ae3f0b8c-f504-3c8e-8072-18322a3af3f5
 ---
 This file includes the following topics:
 Introduction and overview, coaching and mentoring cycle and principles, risk analysis, coaching and mentoring teams, and facing up and facing down in the organization.
-

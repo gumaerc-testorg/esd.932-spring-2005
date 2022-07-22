@@ -8,6 +8,7 @@ file: /courses/esd-932-technology-policy-organizations-spring-2005/009735466cf55
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 00973546-6cf5-598c-cc47-56a70284ea30
 ---
 This file includes the following topics:
 Key group processes, task functions, maintenance functions, decision-making, communication, influence, conflict, group atmosphere, managing emotions, and summary points.
-

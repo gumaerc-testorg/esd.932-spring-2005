@@ -7,6 +7,7 @@ file: /courses/esd-932-technology-policy-organizations-spring-2005/59051181458f0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: sesonorgassumpt.pdf
 uid: 59051181-458f-0f0a-2803-dc3ab7818cd5
 ---
 This file discusses about theory X and theory Y perspectives, 20th and 21st century models of the organization, and process of shifting from 20th to 21st century assumptions.
-

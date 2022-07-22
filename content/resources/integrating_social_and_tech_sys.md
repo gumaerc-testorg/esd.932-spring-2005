@@ -5,6 +5,7 @@ file: /courses/esd-932-technology-policy-organizations-spring-2005/9446debc38727
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Integrating_Social_and_Tech_Sys.pdf
 uid: 9446debc-3872-76da-2288-19b74b2de193
 ---
 MIT/Sloan Foundation Industry System Study.
-

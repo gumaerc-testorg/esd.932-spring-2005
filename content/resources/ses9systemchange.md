@@ -9,6 +9,7 @@ file: /courses/esd-932-technology-policy-organizations-spring-2005/0690f209a5ba7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ uid: 0690f209-a5ba-7a71-005f-02de6c90e2c3
 ---
 This file includes the following topics:
 Systems change initiatives, and strategies for change (top down re-engineering, bottom up process improvement, middle-out protocols and standards, underlying core values and assumptions).
-
