@@ -4,6 +4,7 @@ description: This file discusses about theory X and theory Y perspectives, 20th 
   21st century models of the organization, and process of shifting from 20th to 21st
   century assumptions.
 file: /courses/esd-932-technology-policy-organizations-spring-2005/59051181458f0f0a2803dc3ab7818cd5_sesonorgassumpt.pdf
+file_size: 59340
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
