@@ -6,6 +6,7 @@ description: 'This file discusses about decision making options, personal prefer
 
   group development.'
 file: /courses/esd-932-technology-policy-organizations-spring-2005/96ea5967a41b42ed6c6ed139f94c6928_groupdecisions.pdf
+file_size: 111551
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

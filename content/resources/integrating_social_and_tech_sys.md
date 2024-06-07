@@ -2,6 +2,7 @@
 content_type: resource
 description: MIT/Sloan Foundation Industry System Study.
 file: /courses/esd-932-technology-policy-organizations-spring-2005/9446debc387276da228819b74b2de193_Integrating_Social_and_Tech_Sys.pdf
+file_size: 201228
 file_type: application/pdf
 learning_resource_types:
 - Readings

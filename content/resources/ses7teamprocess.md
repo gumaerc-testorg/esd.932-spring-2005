@@ -5,6 +5,7 @@ description: 'This file includes the following topics:
   Key group processes, task functions, maintenance functions, decision-making, communication,
   influence, conflict, group atmosphere, managing emotions, and summary points.'
 file: /courses/esd-932-technology-policy-organizations-spring-2005/009735466cf5598ccc4756a70284ea30_ses7teamprocess.pdf
+file_size: 58519
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
