@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/esd-932-technology-policy-organizations-spring-2005/b3886a1f67044cd02c2948907dcf98b5_esd-932s05-th.jpg
+file: /courses/esd-932-technology-policy-organizations-spring-2005/b3886a1f67044cd02c2948907dcf98b5_esd-932s05-th.jpg
 file_size: 14608
 file_type: image/jpeg
 image_metadata:

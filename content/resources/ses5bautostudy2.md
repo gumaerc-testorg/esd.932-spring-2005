@@ -3,7 +3,7 @@ content_type: resource
 description: 'This file includes the following topics:
 
   Overview and expected outcomes, case overview, and discussion questions.'
-file: /ol-ocw-studio-app/courses/esd-932-technology-policy-organizations-spring-2005/b5a1bc453464ef028196f7db961f902e_ses5bautostudy2.pdf
+file: /courses/esd-932-technology-policy-organizations-spring-2005/b5a1bc453464ef028196f7db961f902e_ses5bautostudy2.pdf
 file_size: 37014
 file_type: application/pdf
 learning_resource_types:
