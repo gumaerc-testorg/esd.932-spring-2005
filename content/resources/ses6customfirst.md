@@ -4,7 +4,7 @@ description: 'This file includes the following topics:
 
   Strategic alliance agreement, pay for performance agreement, and three perspectives
   on organizations.'
-file: /ol-ocw-studio-app/courses/esd-932-technology-policy-organizations-spring-2005/025acf5c2d7bc3e0ef0ebe34fdd32e84_ses6customfirst.pdf
+file: /courses/esd-932-technology-policy-organizations-spring-2005/025acf5c2d7bc3e0ef0ebe34fdd32e84_ses6customfirst.pdf
 file_size: 55766
 file_type: application/pdf
 learning_resource_types:

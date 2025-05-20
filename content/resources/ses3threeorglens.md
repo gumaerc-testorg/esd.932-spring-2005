@@ -7,7 +7,7 @@ description: 'This file includes the following topics:
   power, forms of negotiations/change, conflict management, political perspective,
   organization as cultural/social system, cultural perspective, and selected aspects
   of an engineering perspective and economic perspective.'
-file: /ol-ocw-studio-app/courses/esd-932-technology-policy-organizations-spring-2005/7ad66077db0809cd02fd8ebf5682865a_ses3threeorglens.pdf
+file: /courses/esd-932-technology-policy-organizations-spring-2005/7ad66077db0809cd02fd8ebf5682865a_ses3threeorglens.pdf
 file_size: 100946
 file_type: application/pdf
 learning_resource_types:

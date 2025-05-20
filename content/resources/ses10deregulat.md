@@ -4,7 +4,7 @@ description: 'This file includes the following topics:
 
   Deregulation in five industries, policy recommendation from consumer reports, and
   deregulation exercise.'
-file: /ol-ocw-studio-app/courses/esd-932-technology-policy-organizations-spring-2005/2c95953d52e63ac7558f9d7995fc1c00_ses10deregulat.pdf
+file: /courses/esd-932-technology-policy-organizations-spring-2005/2c95953d52e63ac7558f9d7995fc1c00_ses10deregulat.pdf
 file_size: 33121
 file_type: application/pdf
 learning_resource_types:
