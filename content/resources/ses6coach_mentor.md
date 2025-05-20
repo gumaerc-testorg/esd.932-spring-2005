@@ -5,7 +5,7 @@ description: 'This file includes the following topics:
   Introduction and overview, coaching and mentoring cycle and principles, hall of
   shame, risk analysis, hall of fame, coaching and mentoring teams, and facing up
   and facing down in the organization.'
-file: /ol-ocw-studio-app/courses/esd-932-technology-policy-organizations-spring-2005/792000c2e76a9ab0cfa5f770755d56e2_ses6coach_mentor.pdf
+file: /courses/esd-932-technology-policy-organizations-spring-2005/792000c2e76a9ab0cfa5f770755d56e2_ses6coach_mentor.pdf
 file_size: 61940
 file_type: application/pdf
 learning_resource_types:

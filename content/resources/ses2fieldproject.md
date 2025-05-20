@@ -3,7 +3,7 @@ content_type: resource
 description: 'This file includes the following topics:
 
   Industries selected and tasks industries, and collecting data on field projects.'
-file: /ol-ocw-studio-app/courses/esd-932-technology-policy-organizations-spring-2005/8ce4e32703b8d3b1c91cbf762bd77bdd_ses2fieldproject.pdf
+file: /courses/esd-932-technology-policy-organizations-spring-2005/8ce4e32703b8d3b1c91cbf762bd77bdd_ses2fieldproject.pdf
 file_size: 37372
 file_type: application/pdf
 learning_resource_types:

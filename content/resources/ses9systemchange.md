@@ -5,7 +5,7 @@ description: 'This file includes the following topics:
   Systems change initiatives, and strategies for change (top down re-engineering,
   bottom up process improvement, middle-out protocols and standards, underlying core
   values and assumptions).'
-file: /ol-ocw-studio-app/courses/esd-932-technology-policy-organizations-spring-2005/0690f209a5ba7a71005f02de6c90e2c3_ses9systemchange.pdf
+file: /courses/esd-932-technology-policy-organizations-spring-2005/0690f209a5ba7a71005f02de6c90e2c3_ses9systemchange.pdf
 file_size: 55402
 file_type: application/pdf
 learning_resource_types:

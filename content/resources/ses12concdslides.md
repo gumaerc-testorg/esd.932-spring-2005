@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file includes the concluding discussion of the course.
-file: /ol-ocw-studio-app/courses/esd-932-technology-policy-organizations-spring-2005/c346f0db0c853a749b4b39003c130bac_ses12concdslides.pdf
+file: /courses/esd-932-technology-policy-organizations-spring-2005/c346f0db0c853a749b4b39003c130bac_ses12concdslides.pdf
 file_size: 71483
 file_type: application/pdf
 learning_resource_types:
