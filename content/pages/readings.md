@@ -291,7 +291,7 @@ Module 6 - Teams in Organizations: "Overview and Outward Bound: Linking Teams to
 
 _Reading Distributed Separately_
 
-Doyle, John. "Protocols." ([PDF](http://web.archive.org/web/20070701115025/http://www.cds.caltech.edu/~doyle/CmplxNets/Protocols1.pdf))
+Doyle, John. "Protocols." ({{% resource_link "89c9975f-4b09-4e0d-925c-4dd33170e41a" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -413,8 +413,7 @@ Open-Forum Panel Dialogue
 
 _Reading Distributed Separately_
 
-Kochan, Thomas, Wanda Orlikowski, and Joel Cutcher-Gershenfeld. ["Beyond McGregor's Theory Y: Human Capital and Knowledge-Based Work in the 21st Century Organization."  
-](https://www.researchgate.net/publication/237702104_Beyond_McGregor's_Theory_Y_Human_Capital_and_Knowledge-Based_Work_in_the_21st_Century_Organization)
+Kochan, Thomas, Wanda Orlikowski, and Joel Cutcher-Gershenfeld. {{% resource_link "1b7e5deb-040c-46e6-9907-04e9d7c73e7d" "\"Beyond McGregor's Theory Y: Human Capital and Knowledge-Based Work in the 21st Century Organization.\"   " %}}
 
 
 {{< tdclose >}}
